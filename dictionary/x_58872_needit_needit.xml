@@ -7,7 +7,7 @@
             <choice>
                 <element inactive_on_update="false" label="Facilities 2" sequence="3" value="facilities2"/>
                 <element inactive_on_update="false" label="Your Department Choice 1" sequence="6" value="your_choice1"/>
-                <element inactive="true" inactive_on_update="true" label="Other" sequence="0" value="other"/>
+                <element inactive_on_update="false" label="Other" sequence="8" value="other"/>
                 <element inactive_on_update="false" label="Facilities 1" sequence="2" value="facilities1"/>
                 <element inactive_on_update="false" label="Your Department Choice 2" sequence="7" value="your_choice2"/>
                 <element inactive_on_update="false" label="Human Resources 2" sequence="5" value="hr2"/>
