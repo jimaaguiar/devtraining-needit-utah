@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-05 13:53:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0716f982c39522104833bb02b4013136</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Untrustworthy Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_0716f982c39522104833bb02b4013136</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-05 13:53:22</sys_updated_on>
+        <title>Untrustworthy Application</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>dcfc3b68eb346e54cbdefceacad0cd8c</instance_id>
+        <instance_name>dev318735</instance_name>
+        <name>sys_app_application_0716f982c39522104833bb02b4013136</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-05 13:53:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0716f982c39522104833bb02b4013136</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Untrustworthy Application</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_0716f982c39522104833bb02b4013136</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-05 13:53:22</sys_updated_on><title>Untrustworthy Application</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1397836895</payload_hash>
+        <record_name>Untrustworthy Application</record_name>
+        <reverted_from/>
+        <source>634d371cc311a2104833bb02b4013174</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-05 13:53:22</sys_created_on>
+        <sys_id>39563502c39522104833bb02b40131a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196a0b905850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-05 13:53:22</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>3d5635029c952210c1ce3202f023e5a3</update_guid>
+        <update_guid_history>3d5635029c952210c1ce3202f023e5a3:1397836895</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Untrustworthy Application">4b57f9c2c39522104833bb02b40131d1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-05 13:57:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>2aa90c722536451cab87832e51502289</sys_id>
+        <sys_metadata>0716f982c39522104833bb02b4013136</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Untrustworthy Application</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_0716f982c39522104833bb02b4013136</sys_update_name>
+        <sys_update_version display_value="sys_app_application_0716f982c39522104833bb02b4013136">39563502c39522104833bb02b40131a4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-05 13:57:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
